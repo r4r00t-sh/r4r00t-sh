@@ -1,5 +1,7 @@
 # 💫 About Me:
-👋 Hi, I’m Keerthanan P.S<br>🚀 Cybersecurity Enthusiast | Security Analyst | Developer<br><br>🛡️ What I Do<br><br>🔐 Cybersecurity<br>Security monitoring & incident response<br>SIEM implementation (Wazuh)<br>Network security & traffic analysis<br>Malware analysis & threat detection<br>Log analysis & alert engineering<br><br>💻 Development<br><br>Python automation & security tooling<br>Backend APIs (FastAPI, Flask)<br>Full-stack development (React, Node.js)<br>Desktop applications (Tkinter, WPF)<br><br>🧠 Learning & Research<br><br>Ethical hacking & CTF challenges<br>Linux internals & system hardening<br>Network protocols & defense strategies<br><br>📜 Certifications<br><br>✅ Offensive Certified Security Analyst (OCSA)<br>✅ Certified Associate Penetration Tester (CAPT) – Hackviser<br>🎯 Preparing for CEH v13
+<h1 align="center">Hi 👋, I'm Keerthanan PS</h1>
+<h3 align="center">🚀 Cybersecurity Enthusiast | Security Analyst | Developer</h3>
+<br>🛡️ What I Do<br><br>🔐 Cybersecurity<br>Security monitoring & incident response<br>SIEM implementation (Wazuh)<br>Network security & traffic analysis<br>Malware analysis & threat detection<br>Log analysis & alert engineering<br><br>💻 Development<br><br>Python automation & security tooling<br>Backend APIs (FastAPI, Flask)<br>Full-stack development (React, Node.js)<br>Desktop applications (Tkinter, WPF)<br><br>🧠 Learning & Research<br><br>Ethical hacking & CTF challenges<br>Linux internals & system hardening<br>Network protocols & defense strategies<br><br>📜 Certifications<br><br>✅ Offensive Certified Security Analyst (OCSA)<br>✅ Certified Associate Penetration Tester (CAPT) – Hackviser<br>🎯 Preparing for CEH v13
 
 
 ## 🌐 Socials:
