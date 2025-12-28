@@ -10,23 +10,39 @@ I enjoy analyzing systems, identifying vulnerabilities, and building tools that 
 
 ## 🛡️ What I Do
 
-### 🔐 Cybersecurity
-- Security monitoring & incident response  
-- SIEM implementation (Wazuh)  
-- Network security & traffic analysis  
-- Malware analysis & threat detection  
-- Log analysis & alert engineering  
+<div style="display:flex; justify-content:space-between; gap:20px; flex-wrap:wrap;">
 
-### 💻 Development
-- Python automation & security tooling  
-- Backend APIs (FastAPI, Flask)  
-- Full-stack development (React, Node.js)  
-- Desktop applications (Tkinter, WPF)  
+  <div style="flex:1; min-width:250px; background:#0d1117; padding:15px; border-radius:12px;">
+    <h3>🔐 Cybersecurity</h3>
+    <ul>
+      <li>Security monitoring & incident response</li>
+      <li>SIEM implementation (Wazuh)</li>
+      <li>Network security & traffic analysis</li>
+      <li>Malware analysis & threat detection</li>
+      <li>Log analysis & alert engineering</li>
+    </ul>
+  </div>
 
-### 🧠 Learning & Research
-- Ethical hacking & CTF challenges  
-- Linux internals & system hardening  
-- Network protocols & defense strategies  
+  <div style="flex:1; min-width:250px; background:#0d1117; padding:15px; border-radius:12px;">
+    <h3>💻 Development</h3>
+    <ul>
+      <li>Python automation & security tooling</li>
+      <li>Backend APIs (FastAPI, Flask)</li>
+      <li>Full-stack development (React, Node.js)</li>
+      <li>Desktop applications (Tkinter, WPF)</li>
+    </ul>
+  </div>
+
+  <div style="flex:1; min-width:250px; background:#0d1117; padding:15px; border-radius:12px;">
+    <h3>🧠 Learning & Research</h3>
+    <ul>
+      <li>Ethical hacking & CTF challenges</li>
+      <li>Linux internals & system hardening</li>
+      <li>Network protocols & defense strategies</li>
+    </ul>
+  </div>
+
+</div>
 
 ---
 
