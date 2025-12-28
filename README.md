@@ -10,39 +10,41 @@ I enjoy analyzing systems, identifying vulnerabilities, and building tools that 
 
 ## 🛡️ What I Do
 
-<div style="display:flex; justify-content:space-between; gap:20px; flex-wrap:wrap;">
+<table align="center" width="100%">
+<tr>
 
-  <div style="flex:1; min-width:250px; background:#0d1117; padding:15px; border-radius:12px;">
-    <h3>🔐 Cybersecurity</h3>
-    <ul>
-      <li>Security monitoring & incident response</li>
-      <li>SIEM implementation (Wazuh)</li>
-      <li>Network security & traffic analysis</li>
-      <li>Malware analysis & threat detection</li>
-      <li>Log analysis & alert engineering</li>
-    </ul>
-  </div>
+<td width="33%" valign="top">
 
-  <div style="flex:1; min-width:250px; background:#0d1117; padding:15px; border-radius:12px;">
-    <h3>💻 Development</h3>
-    <ul>
-      <li>Python automation & security tooling</li>
-      <li>Backend APIs (FastAPI, Flask)</li>
-      <li>Full-stack development (React, Node.js)</li>
-      <li>Desktop applications (Tkinter, WPF)</li>
-    </ul>
-  </div>
+### 🔐 Cybersecurity
+- Security monitoring & incident response  
+- SIEM implementation (Wazuh)  
+- Network security & traffic analysis  
+- Malware analysis & threat detection  
+- Log analysis & alert engineering  
 
-  <div style="flex:1; min-width:250px; background:#0d1117; padding:15px; border-radius:12px;">
-    <h3>🧠 Learning & Research</h3>
-    <ul>
-      <li>Ethical hacking & CTF challenges</li>
-      <li>Linux internals & system hardening</li>
-      <li>Network protocols & defense strategies</li>
-    </ul>
-  </div>
+</td>
 
-</div>
+<td width="33%" valign="top">
+
+### 💻 Development
+- Python automation & security tooling  
+- Backend APIs (FastAPI, Flask)  
+- Full-stack development (React, Node.js)  
+- Desktop applications (Tkinter, WPF)  
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🧠 Learning & Research
+- Ethical hacking & CTF challenges  
+- Linux internals & system hardening  
+- Network protocols & defense strategies  
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -90,6 +92,7 @@ I enjoy analyzing systems, identifying vulnerabilities, and building tools that 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 ---
 
