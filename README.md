@@ -50,7 +50,7 @@ I enjoy analyzing systems, identifying vulnerabilities, and building tools that 
 
 ## 📜 Certifications
 
-- ✅ **Offensive Certified Security Analyst (OCSA)**  
+- ✅ **Offenso Certified Security Analyst (OCSA)**  
 - ✅ **Certified Associate Penetration Tester (CAPT) – Hackviser**  
 - 🎯 **Preparing for CEH v13**
 
